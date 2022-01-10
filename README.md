@@ -4,3 +4,5 @@
 
 #Open cmd at the location of file and run following command.
 > kill.bat
+
+#Run this script whenever you feel your system needs to be boosted.
